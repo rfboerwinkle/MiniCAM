@@ -1,0 +1,7 @@
+Lanugage: Python3
+Python3 libraries in use: xml.dom, svg.path, numpy
+Use: Python3 cam.py [FILE]
+
+This script generates G-Code for a router based on an svg file.
+
+Currently, only svg "paths" are supported.
